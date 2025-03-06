@@ -1,0 +1,610 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from primeplox.com/terms by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 24 May 2024 12:06:42 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<head>
+
+    <!-- metas -->
+    <meta charset="utf-8">
+    <meta name="author" content="primeplox Investment Company" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="keywords" content="cryptocurrencies, cryptocurrency, crypto trading, bitcoin, investing, digital asset, forx,Real Estate CBD, bitcoin loan, bitcoin backed loan" />
+    <meta name="description" content="primeplox Investment Company is a digital assets investment company, that manages crytpo and real estate investments for investors using blockchain technology." />
+
+    <!-- title  -->
+    <title>Home | primeplox Investment Company</title>
+
+    <!-- favicon -->
+    <link rel="shortcut icon" href="favicon.png">
+    <link rel="apple-touch-icon" href="img/logos/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="img/logos/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="img/logos/apple-touch-icon-114x114.png">
+
+    <!-- plugins -->
+    <link rel="stylesheet" href="css/plugins.css" />
+
+    <!-- revolution slider css -->
+    <link rel="stylesheet" href="css/rev_slider/settings.css">
+    <link rel="stylesheet" href="css/rev_slider/layers.css">
+    <link rel="stylesheet" href="css/rev_slider/navigation.css">
+
+    <!-- revolution slider typewriter css -->
+    <link rel="stylesheet" href="css/rev_slider/typewriter.css">
+
+    <!-- search css -->
+    <link rel="stylesheet" href="search/search.css" />
+
+    <!-- quform css -->
+    <link rel="stylesheet" href="quform/css/base.css">
+
+    <!-- custom css -->
+    <link href="css/styles.css" rel="stylesheet" id="colors">
+	<!-- <script src="sweetalert2.all.min"></script> -->
+    <script src="http://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+	
+	<style>
+#toSocial {
+	background-color: #fff;
+	background-image: url(img/whatsapp.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: 50px 50px;
+	border: none;
+	display: none;
+	height: 60px;
+	overflow: hidden;
+	position: absolute;
+	bottom: 10px;
+	left: 10px;
+	text-decoration: none;
+	text-indent: -9999px;
+	width: 60px;
+	z-index: 999;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	-webkit-box-shadow: 0 0 20px 0 rgba(0,0,0,0.2);
+	box-shadow: 0 0 20px 0 rgba(0,0,0,0.2);
+}
+#toSocial:hover { box-shadow: 0 0 0 3px #141414}
+	</style>
+<style>
+        * {
+            box-sizing: border-box;
+        }
+        
+        #google_translate_element {
+            z-index: 9999999;
+            position: fixed;
+            bottom: 100px;
+            left: 15px;
+        }
+        
+        .goog-te-gadget {
+            font-family: Roboto, "Open Sans", sans-serif !important;
+            text-transform: uppercase;
+        }
+        
+        .goog-te-gadget-simple {
+            background-color: rgba(0, 0, 0, 0.5) !important;
+            border: 1px solid rgba(255, 255, 255, 0.5) !important;
+            padding: 3px !important;
+            border-radius: 4px !important;
+            font-size: 0.8rem !important;
+            line-height: 2rem !important;
+            display: inline-block;
+            cursor: pointer;
+            zoom: 1;
+            margin-bottom: 4px;
+        }
+        
+        .goog-te-menu2 {
+            max-width: 100%;
+        }
+        
+        .goog-te-menu-value {
+            color: #fff !important;
+        }
+        
+        .goog-te-menu-value:before {
+            font-family: 'Material Icons';
+            content: "\E927";
+            margin-right: 16px;
+            font-size: 2rem;
+            vertical-align: -10px;
+        }
+        
+        .goog-te-menu-value span:nth-child(5) {
+            display: none;
+        }
+        
+        .goog-te-menu-value span:nth-child(3) {
+            border: none !important;
+            font-family: 'Material Icons';
+        }
+        
+        .goog-te-menu-value span:nth-child(3):after {
+            font-family: 'Material Icons';
+            content: "\E5C5";
+            font-size: 1.5rem;
+            vertical-align: -6px;
+        }
+        
+        .goog-te-gadget-icon {
+            background-position: 0px 0px;
+            height: 32px !important;
+            width: 32px !important;
+            margin-right: 8px !important;
+            display: none;
+        }
+        
+        .goog-te-banner-frame.skiptranslate {
+            display: none !important;
+        }
+        
+        body {
+            top: 0px !important;
+        }
+        /* ================================== *\
+    Mediaqueries
+\* ================================== */
+        
+        @media (max-width: 667px) {
+            #google_translate_element {}
+            #google_translate_element goog-te-gadget {}
+            #google_translate_element .skiptranslate {}
+            #google_translate_element .goog-te-gadget-simple {
+                text-align: center;
+            }
+        }
+    </style>
+    <style>
+        .mgm {
+            border-radius: 7px;
+            position: fixed;
+            z-index: 999999;
+            top: 76px;
+            right: 30px;
+            background: #fff;
+            padding: 10px 27px;
+            box-shadow: 0px 5px 13px 0px rgba(0,0,0,.3);
+        }
+        .mgm a {
+            font-weight: 700;
+            display: block;
+            color:#f2d516;
+        }
+        .mgm a, .mgm a:active {
+            transition: all .2s ease;
+            color:#f2d516;
+        }
+        .video-container {
+            width: 100%;
+            max-height: 380px;
+            position: relative;
+            background-color: #aaaaaa;
+        }
+
+        .video-container video {
+          width: 100%;
+          height: 100%;
+          position: absolute;
+          object-fit: cover;
+          z-index: 0;
+        }
+        
+        /* Just styling the content of the div, the *magic* in the previous rules */
+        .video-container .caption {
+          z-index: 1;
+          position: relative;
+          text-align: center;
+          padding: 6%;
+        }
+        .video-container .caption h2, .video-container .caption p {
+            color:#ffffff;
+        }
+    </style>
+</head>
+
+<body>
+<div class="mgm notification" style="display: block; opacity: 1;" id="notification-1">
+        <div class="txt" style="color:black;"></div>
+    </div>
+    <script>
+        setTimeout(function() {
+            Swal.fire({
+                icon: 'warning',
+                title: 'WARNING',
+                //width: 600,
+                html: '<p style="font-size:11pt"><br>NEVER make payments to any external wallet addresses or account details provided by anyone. Our Staff will NEVER ask you to send money to any wallet address, western union, or bank account DIFFERENT from those provided only within our website. Neither will you be asked to send payment to help you fund your account or complete your investment.</p> <p style="font-size:11pt">Always be vigilant and always inquire from our official support email <a href="mailto:support@primeplox.com">support@primeplox.com</a>! to confirm any of such claims.</p>',
+                showCloseButton: true,
+
+            })
+        }, 10000);
+    </script>
+    <!-- start page loading -->
+    <div id="preloader">
+        <div class="row loader">
+            <div class="loader-icon"></div>
+        </div>
+    </div>
+    <!-- end page loading -->
+
+    <!-- start main-wrapper section -->
+    <div class="main-wrapper">
+
+        <!-- start header section -->
+<header class="header-style2 menu_area-light">
+    <div class="navbar-default">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-12 col-lg-12">
+                    <div class="menu_area alt-font">
+                        <nav class="navbar navbar-expand-lg navbar-light no-padding">
+
+                            <div class="navbar-header navbar-header-custom">
+                                <!-- start logo -->
+                                <a href="index.html" class="navbar-brand logo2"><img id="logo" src="logo.png" alt="logo" width="130px"></a>
+                                <!-- end logo -->
+                            </div>
+
+                            <div class="navbar-toggler"></div>
+
+                            <!-- menu area -->
+                            <ul class="navbar-nav ml-auto" id="nav" style="display: none;">
+                                <li><a href="index.html">Home</a></li>
+                                <li><a href="crypto.html">Crypto Assets</a></li>
+                                <li><a href="realestate.html">Real Estate</a></li>
+                                <li><a href="loan.html">Crypto Loans</a></li>
+                                <li><a href="pricing.html">Pricing</a></li>
+                                <li><a href="company.html">Company</a>
+									<ul>
+										<!--<li><a href="information#legal">Company Registration</a></li>-->
+										<!--<li><a href="information#videos">Presentation Videos</a></li>-->
+										<li><a href="terms.html">Terms &amp; Conditions</a></li>
+									</ul>
+								</li>
+                                <li><a href="USER/signup.php"><span class="butn small white">SIGN UP</span></a></li>
+                            </ul>
+                            <!-- end menu area -->
+
+                            <!-- start attribute navigation -->
+                            <div class="attr-nav sm-no-margin sm-margin-70px-right xs-margin-65px-right">
+                                    <span class="sm-margin-20px-right xs-margin-5px-right">
+                                        <a href="USER/signin.php" class="butn small theme">
+                                            <!-- <i class="fa fa-user-circle">Account</i> -->
+                                            <span>LOGIN</span>
+                                        </a>                                            
+                                    </span>
+                                    <!-- <li class="search"><a href="javascript:void(0)"><i class="fas fa-search"></i></a></li> -->
+                            </div>
+                            <!-- end attribute navigation -->
+
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</header><!-- end header section -->
+        <!-- start page title section -->
+        <section class="page-title-section2 bg-img cover-background" data-overlay-dark="7" data-background="img/bg/1.jpg">
+            <div class="container">
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <h1>Terms and Conditions</h1>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+        <!-- end page title section -->
+		
+		<section>
+			<div class="container">
+				<div class="section-heading title-style6">
+					<div class="alt-font text-theme-color text-uppercase letter-spacing-1">Terms & Conditions</div>
+				</div>
+
+				<div class="row">
+					<div class="col-lg-12 col-md-12 sm-margin-20px-bottom">
+						<div class="services-single-right">
+							<pre>
+1. General
+The terms and conditions contained herein apply to the investment services of primeplox Investment Company investment company made available through its official website at https://primeplox.com. All information made available to the investor/client pertaining to this Promotion, including information contained within websites of primeplox Investment Company, form a legal agreement between the investor/client and primeplox Investment Company. 
+By electing to participate in any of the investment businesses of primeplox Investment Company, you are indicating you agree to be bound by the terms and conditions contained herein and contained within website materials of primeplox Investment Company, coupled with any Client Agreement(s) executed. primeplox Investment Company reserves the right to amend these terms and conditions at any time. 
+Such modifications shall become effective immediately at the time the amendment is executed and posted on the primeplox Investment Company website. primeplox Investment Company is not required to make announcements as to such amendments.
+
+2. Eligible Accounts
+To be eligible to participate in any of the services of primeplox Investment Company, clients/investors or their representatives must be eighteen (18) years of age or older, or the legal age of majority in the client's/investor's home country, state or province; be legally entitled to use our services in accordance with applicable law; currently maintain a cryptocurrency account with a Wallet; 
+and make a deposit with primeplox Investment Company totaling no less than the stipulated account on the chosen investment product (the Initial Deposit) during the investment Period as defined herein.
+
+3. Account Restrictions
+If there are promotions of bonuses on accounts within primeplox Investment Company, these promotions will be based on a One bonus per account per client. Also, accounts are only transferable with requests made, reviewed, and granted by the management of primeplox Investment Company.
+
+4. Account Activation and Operation
+primeplox Investment Company will credit all Eligible Accounts, as defined herein, with deposits (as made by investor) totaling an amount determined by the initial deposit made by client, as set forth in the table of plans. Such deposit must be made within 48 hours of creating an investment account or the said account shall be deleted. 
+Client must complete the required lots (as stipulated in the chosen plan) prior to the activation of the investment account within 48 hours of opening the account. Charges on investment account operation and/or maintenance shall be deducted upon completion of investment cycle. Withdrawals can only be made after an account completes its initial investment cycle (IIC) as stipulated in the plan details.
+
+5. Release and Withdrawal Restrictions
+Client is unable to withdraw or transfer any funds from Client account before or during the initial investment cycle, unless there's a court order to withdraw the account, or Client gives the investment company a 48-hour prior notification of withdrawal by mail or phone call. 
+Should primeplox Investment Company receive a request by mail or phone to withdraw funds prior to the account cycle satisfying the stipulated time, it is then authorized to process such request only after it has debited the account in an amount equal to the operation and/or maintenance fee. Should Client make a withdrawal request during the initial investment cycle and prior to the completion of the cycle, any bonus shall be terminated. 
+primeplox Investment Company's Client agrees that primeplox Investment Company is not liable for any market losses, including margin calls, as a result of a withdrawal made by primeplox Investment Company in order to make payout or retain operation/maintenance charges.
+
+6. Exploitation, Misuse, Conditions
+primeplox Investment Company offers its services and bonuses in good faith to its Clients actively investing within its market with exposure to economic risk. Client acknowledges that his/her subscription to the services of primeplox Investment Company is for the purposes of investment only. Client's invested fund shall be utilized in legitimate trading within the market that primeplox Investment Company offers. In need emergence of a new market, Client shall be notified before any form of diversification is inclined to the Client's fund. 
+This condition also requires that the Client does not associate any abusive, exploitive or improper conduct (Exploitative Activity) while being subscribed to the primeplox Investment Company investment offered services. Exploitative Activity shall include, without limitation:
+-- Client, by himself or acting with others (including an Introducing Broker, Money Manager), establishes an investment position or positions which have the purpose or effect of extracting the funds credited as part of the offered services; and/or the profits generated by such funds, without exposure to economic risk, including without limitation loss of the funds credited as part of the offered services or the Client's capital (or the capital of others).
+-- Client, whether personally or through a third-party, hedges investment position(s) for purposes of capturing credited funds on a risk-free basis, by utilizing additional trading account(s) at other institutions, whether maintained by Client or an associate thereof, or by utilizing an additional account at primeplox Investment Company held by a third-party or alias, or by any other means
+
+Client agrees and acknowledges that the offered services shall be granted by primeplox Investment Company only as a result of representations made by Client, including Client's representation that he/she will not undertake Exploitative Activity, as defined herein. 
+primeplox Investment Company shall have the authority to, at its sole discretion, elect to retroactively cancel the investment terms, remove any credited bonus/promotional funds from a Client's account and retroactively cancel any investment activity conducted, should primeplox Investment Company determine the Client has undertaken Exploitative
+
+Activity while being subscribed within the offered services:
+primeplox Investment Company is authorized to cancel all investment activity of such account since inception following its determination and will return the original deposit(s) to Client. Client agrees that primeplox Investment Company is not liable for any market losses, including margin calls, as a result of a withdrawal made by primeplox Investment Company in order to receive dividends or returns on investments as a result of primeplox Investment Company's determination of the existence of Exploitative Activity.
+
+A. Liability
+primeplox Investment Company shall not be held liable for any loss resulting from a client's participation or inability to secure their account portal, dashboard, or access from their user end. Further, primeplox Investment Company shall be indemnified by any participating client for any market loss or margin call resulting from primeplox Investment Company's withdrawal of deposited funds or ROI due.
+
+B. Amendments/Termination of Promotion
+primeplox Investment Company reserves the right to alter, amend, discontinue, terminate or cancel any existing portfolio, investment account or funds, or any aspect of it, at any time, with or without notice, for any reason whatsoever.
+
+C. Third Parties
+Client may not assign or transfer any or all of his/her rights or obligations under the terms of conditions of the investment portfolio. No third party shall have a right to enforce any rights or obligations contained herein against primeplox Investment Company.
+
+D. Governing Law
+This Agreement and the terms and conditions herein, and any judicial or administrative action or proceeding or arbitration arising directly or indirectly hereunder, or in connection with the transactions contemplated hereby, whether brought by Client or primeplox Investment Company, shall be governed by the laws of the country or region where the investment portfolio is created without reference to its conflicts of laws.
+							</pre>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		
+<!-- start footer section -->
+<footer class="border-top border-color-light-black bg-light-gray">
+            <div class="container">
+                <div class="row">
+
+                    <div class="col-lg-4 col-md-6 sm-margin-30px-bottom">
+
+                        <img alt="footer-logo" src="logo.png">
+                        <p class="margin-20px-top text-default-color">We are a digital assets trading and managment company, providing blockchain-backed investment products to investors, who wish to create financial stabilty and security through secure investing.</p>
+                        <div class="margin-25px-top footer-social-icons2">
+                            <ul>
+                            </ul>
+                        </div>
+
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 sm-margin-30px-bottom">
+                        <h3 class="footer-title-style6">Quick Links</h3>
+                        <div class="row">
+                            <div class="col-md-6 no-padding-right xs-padding-15px-right">
+                                <ul class="footer-list-style3 xs-margin-5px-bottom">
+                                    <li><a href="crypto.html">Cryptos Investing</a></li>
+                                    <li><a href="realestate.html">Real Estate Investing</a></li>
+                                    <li><a href="loan.html">Crypto-backed Loans</a></li>
+                                    <li><a href="pricing.html">Pricing</a></li>
+                                </ul>
+                            </div>
+                            <div class="col-md-6 no-padding-right xs-padding-15px-right">
+                                <ul class="footer-list-style3">
+                                    <li><a href="index-2.html#howToJoin">How To Join</a></li>
+                                    <li><a href="index-2.html#whyChooseUs">Why Choose Us</a></li>
+                                    <li><a href="terms.html">Terms &amp; Conditions</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 offset-lg-1">
+                        <h3 class="footer-title-style6">Get in Touch</h3>
+                        <ul class="footer-list-style3">
+                            <li>
+                                <span class="d-inline-block vertical-align-top font-size18"><i class="fas fa-map-marker-alt"></i></span>
+                                <span class="d-inline-block width-85 vertical-align-top padding-10px-left">UK Ltd, 18 Hanover Square, London, W1S 1JY</span>
+                            </li>
+                            <li>
+                                <span class="d-inline-block vertical-align-top font-size18"><i class="fas fa-mobile-alt"></i></span>
+                                <span class="d-inline-block width-85 vertical-align-top padding-10px-left">+14172546545</span> 
+                            </li>
+                            <li>
+                                <span class="d-inline-block vertical-align-top font-size18"><i class="far fa-envelope"></i></span>
+                                <span class="d-inline-block width-85 vertical-align-top padding-10px-left">support@primeplox.com</span>
+                            </li>
+                            <li>
+                                <span class="d-inline-block vertical-align-top font-size18"><i class="fas fa-globe"></i></span>
+                                <span class="d-inline-block width-85 vertical-align-top padding-10px-left">https://primeplox.com</span>
+                            </li>
+                        </ul>
+                    </div>
+
+                </div>
+
+            </div>
+            <div class="footer-bar xs-font-size13">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6 text-left xs-text-center xs-margin-5px-bottom">
+                            <p>
+                                Copyright &copy;  2024. All right Reserved. Powered by primeplox Investment Company                            </p>
+                        </div>
+                        <div class="col-md-6 text-right xs-text-center">
+                           
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- end footer section -->
+
+    </div>
+    <!-- end main-wrapper section -->
+
+    <!-- start scroll to top -->
+    <!-- <a href="#!" class="scroll-to-top"><i class="fas fa-angle-up" aria-hidden="true"></i></a> -->
+    <!-- end scroll to top -->
+
+    <!-- all js include start -->
+
+    <!-- jquery -->
+    <script src="js/jquery.min.js"></script>
+
+    <!-- popper js -->
+    <script src="js/popper.min.js"></script>
+
+    <!-- bootstrap -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- navigation -->
+    <script src="js/nav-menu.js"></script>
+
+    <!-- serch -->
+    <script src="search/search.js"></script>
+
+    <!-- tab -->
+    <script src="js/easy.responsive.tabs.js"></script>
+
+    <!-- owl carousel -->
+    <script src="js/owl.carousel.js"></script>
+
+    <!-- jquery.counterup.min -->
+    <script src="js/jquery.counterup.min.js"></script>
+
+    <!-- stellar js -->
+    <script src="js/jquery.stellar.min.js"></script>
+
+    <!-- waypoints js -->
+    <script src="js/waypoints.min.js"></script>
+
+    <!-- countdown js -->
+    <script src="js/countdown.js"></script>
+
+    <!-- jquery.magnific-popup js -->
+    <script src="js/jquery.magnific-popup.min.js"></script>
+
+    <!-- isotope.pkgd.min js -->
+    <script src="js/isotope.pkgd.min.js"></script>
+
+    <!--  chart js -->
+    <script src="js/chart.min.js"></script>
+
+    <!-- thumbs js -->
+    <script src="js/owl.carousel.thumbs.js"></script>
+
+    <!-- animated js -->
+    <script src="js/animated-headline.js"></script>
+
+    <!--  clipboard js -->
+    <script src="js/clipboard.min.js"></script>
+
+    <!--  prism js -->
+    <script src="js/prism.js"></script>
+
+    <!-- revolution slider js files start -->
+    <script src="js/rev_slider/jquery.themepunch.tools.min.js"></script>
+    <script src="js/rev_slider/jquery.themepunch.revolution.min.js"></script>
+
+    <!-- revolution typewriter addon -->
+    <script src="js/rev_slider/extensions/revolution.addon.typewriter.min.js"></script>
+
+    <script src="js/rev_slider/extensions/revolution.extension.actions.min.js"></script>
+    <script src="js/rev_slider/extensions/revolution.extension.carousel.min.js"></script>
+    <script src="js/rev_slider/extensions/revolution.extension.kenburn.min.js"></script>
+    <script src="js/rev_slider/extensions/revolution.extension.layeranimation.min.js"></script>
+    <script src="js/rev_slider/extensions/revolution.extension.migration.min.js"></script>
+    <script src="js/rev_slider/extensions/revolution.extension.navigation.min.js"></script>
+    <script src="js/rev_slider/extensions/revolution.extension.parallax.min.js"></script>
+    <script src="js/rev_slider/extensions/revolution.extension.slideanims.min.js"></script>
+    <script src="js/rev_slider/extensions/revolution.extension.video.min.js"></script>
+
+    <!-- custom scripts -->
+    <script src="js/main.js"></script>
+
+    <!-- quform plugins js -->
+    <script src="quform/js/plugins.js"></script>
+
+    <!-- quform scripts js -->
+    <script src="quform/js/scripts.js"></script>
+
+    <!-- all js include end -->
+    <div id="google_translate_element"></div>
+    <script type="text/javascript">
+        function googleTranslateElementInit() {
+            new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+        }
+    </script>
+    
+    <script type="text/javascript" src="../translate.google.com/translate_a/elementa0d8.js?cb=googleTranslateElementInit"></script>
+
+<!--<a href="https://api.whatsapp.com/send?phone=" id="toSocial" target="_blank" style="display: inline;"><img src="img/whatsapp.jpg" width="50" height="50"/></a>-->
+<!-- GetButton.io widget -->
+<script type="text/javascript">
+    (function () {
+        var options = {
+            whatsapp: "+447441365580", // WhatsApp number
+            email: "support@primeplox.com", //Email address
+            call_to_action: "Message us", // Call to action
+            position: "left", // Position may be 'right' or 'left'
+        };
+        var proto = document.location.protocol, host = "getbutton.io", url = proto + "//static." + host;
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';
+        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
+        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+    })();
+</script>
+<!-- /GetButton.io widget -->
+
+<script src="//code.jivosite.com/widget/3Hon3A6Ipr" async></script>
+<script src="js/fake-notification.js"></script>
+<script>
+var listCountries = ["Afghanistan","Albania","Algeria","Andorra","Angola","Anguilla","Antigua &amp; Barbuda","Argentina","Armenia","Aruba","Australia","Austria","Azerbaijan","Bahamas","Bahrain","Bangladesh","Barbados","Belarus","Belgium","Belize","Benin","Bermuda","Bhutan","Bolivia","Bosnia &amp; Herzegovina","Botswana","Brazil","British Virgin Islands","Brunei","Bulgaria","Burkina Faso","Burundi","Cambodia","Cameroon","Cape Verde","Cayman Islands","Chad","Chile","China","Colombia","Congo","Cook Islands","Costa Rica","Cote D Ivoire","Croatia","Cruise Ship","Cuba","Cyprus","Czech Republic","Denmark","Djibouti","Dominica","Dominican Republic","Ecuador","Egypt","El Salvador","Equatorial Guinea","Estonia","Ethiopia","Falkland Islands","Faroe Islands","Fiji","Finland","France","French Polynesia","French West Indies","Gabon","Gambia","Georgia","Germany","Ghana","Gibraltar","Greece","Greenland","Grenada","Guam","Guatemala","Guernsey","Guinea","Guinea Bissau","Guyana","Haiti","Honduras","Hong Kong","Hungary","Iceland","India","Indonesia","Iran","Iraq","Ireland","Isle of Man","Israel","Italy","Jamaica","Japan","Jersey","Jordan","Kazakhstan","Kenya","Kuwait","Kyrgyz Republic","Laos","Latvia","Lebanon","Lesotho","Liberia","Libya","Liechtenstein","Lithuania","Luxembourg","Macau","Macedonia","Madagascar","Malawi","Malaysia","Maldives","Mali","Malta","Mauritania","Mauritius","Mexico","Moldova","Monaco","Mongolia","Montenegro","Montserrat","Morocco","Mozambique","Namibia","Nepal","Netherlands","Netherlands Antilles","New Caledonia","New Zealand","Nicaragua","Niger","Nigeria","Norway","Oman","Pakistan","Palestine","Panama","Papua New Guinea","Paraguay","Peru","Philippines","Poland","Portugal","Puerto Rico","Qatar","Reunion","Romania","Russia","Rwanda","Saint Pierre &amp; Miquelon","Samoa","San Marino","Satellite","Saudi Arabia","Senegal","Serbia","Seychelles","Sierra Leone","Singapore","Slovakia","Slovenia","South Africa","South Korea","Spain","Sri Lanka","St Kitts &amp; Nevis","St Lucia","St Vincent","St. Lucia","Sudan","Suriname","Swaziland","Sweden","Switzerland","Syria","Taiwan","Tajikistan","Tanzania","Thailand","Timor L'Este","Togo","Tonga","Trinidad &amp; Tobago","Tunisia","Turkey","Turkmenistan","Turks &amp; Caicos","Uganda","Ukraine","United Arab Emirates","United Kingdom","Uruguay","Uzbekistan","Venezuela","Vietnam","Virgin Islands (US)","Yemen","Zambia","Zimbabwe"];
+    var listPlans = ['$680','$2300','$1450','$13,200','$6,750','$4,500','$5,500', '$720', '$7,230', '$2,700','$122,450','$239,910','$170,790','$342,980','$154,820','$230,950','$123,000','$159,789','$97,530','$64,900','$290,440','$450,560','$450,230','$670,340','$600,900','$380,200','$810,780', '$230', '$1,200', '$4,500', '$7,801', '$900', '$768', '$190', '$780', '$389', '$5,602', '$340', '$200,100', '$2,307', '$9,000', '$1,560', '$384', '$8,293', '$9,172', '$98,282', '$9,192', '$100', '$200', '$300', '$400', '$500', '$600', '$700', '$800', '$900', '$1,000', '$1,100', '$1,200', '$1,300', '$1,400', '$1,500', '$1,600', '$1,700', '$1,800', '$1,900', '$2,000', '$2,100', '$2,200', '$2,300', '$2,400'];
+    var listnames = ['John Smith','Marco Verratti','Cole Asley','Antonio Conte','Lina Marzouki','Micheal Cyan ','Jane Morison','Williams Blake','James Miller','Mark Spencer','Jack Dr','Victor Oris','Sukomoy','Norbe','Olivia','Alison','Raquel','Lisa','Luiz','Maria','Mary','David','Tom','Johnny','Dirk', 'Gilbert', 'Mike', 'Jennifer', 'Cosmos', 'Henry', 'David', 'Dani', 'Martinez', 'Stone', 'Paul', 'Roberto', 'Silva', 'Mike', 'Tony', 'Ben'];
+    var choose = ['Withdrew', 'Deposited'];
+    interval = Math.floor(Math.random() * (40000 - 8000 + 1) + 8000);
+    var run = setInterval(request, interval);
+    $(".mgm").css('display', 'none');
+
+    function request() {
+        clearInterval(run);
+        interval = Math.floor(Math.random() * (40000 - 8000 + 1) + 8000);
+        var country = listCountries[Math.floor(Math.random() * listCountries.length)];
+        var Someone = listnames[Math.floor(Math.random() * listnames.length)];        
+        var choose1 = choose[Math.floor(Math.random() * choose.length)];        
+        var plan = listPlans[Math.floor(Math.random() * listPlans.length)];
+        var msg = Someone +' from <b> ' + country + ' </b> just ' + choose1 + ' <strong href="javascript:void(0);" onclick="javascript:void(0);">' + plan + ' </strong>';
+        $(".mgm .txt").html(msg);
+        $(".mgm").stop(true).fadeIn(2);
+        window.setTimeout(function() {
+            $(".mgm").css('display', 'block');
+            $(".mgm").stop(true).fadeOut(100);
+        }, 6000);
+        run = setInterval(request, interval);
+    }
+</script>
+<style>
+    #cr-widget-marquee {
+        position: fixed;
+        bottom: 0px;
+        z-index: 100;
+    }
+    </style>
+    <!-- MARQUEE SCROLL -->
+    <div id="cr-widget-marquee" data-coins="bitcoin,ethereum,tether,ripple,cardano" data-theme="light"
+        data-show-symbol="true" data-show-icon="true" data-show-period-change="true" data-period-change="24H"
+        data-api-url="https://api.cryptorank.io/v0">
+        <!-- <a href="https://cryptorank.io">Coins by Cryptorank</a> -->
+        <script src="../cryptorank.io/widget/marquee.js"></script>
+    </div>
+    <!-- MARQUEE SCROLL SECTION  END -->
+</body>
+
+<!-- Mirrored from primeplox.com/terms by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 24 May 2024 12:06:42 GMT -->
+</html>

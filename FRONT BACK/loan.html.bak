@@ -1,0 +1,978 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from primeplox.com/loan by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 24 May 2024 12:06:37 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<head>
+
+    <!-- metas -->
+    <meta charset="utf-8">
+    <meta name="author" content="primeplox Investment Company" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="keywords" content="cryptocurrencies, cryptocurrency, crypto trading, bitcoin, investing, digital asset, forx,Real Estate CBD, bitcoin loan, bitcoin backed loan" />
+    <meta name="description" content="primeplox Investment Company is a digital assets investment company, that manages crytpo and real estate investments for investors using blockchain technology." />
+
+    <!-- title  -->
+    <title>Home | primeplox Investment Company</title>
+
+    <!-- favicon -->
+    <link rel="shortcut icon" href="favicon.png">
+    <link rel="apple-touch-icon" href="img/logos/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="img/logos/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="img/logos/apple-touch-icon-114x114.png">
+
+    <!-- plugins -->
+    <link rel="stylesheet" href="css/plugins.css" />
+
+    <!-- revolution slider css -->
+    <link rel="stylesheet" href="css/rev_slider/settings.css">
+    <link rel="stylesheet" href="css/rev_slider/layers.css">
+    <link rel="stylesheet" href="css/rev_slider/navigation.css">
+
+    <!-- revolution slider typewriter css -->
+    <link rel="stylesheet" href="css/rev_slider/typewriter.css">
+
+    <!-- search css -->
+    <link rel="stylesheet" href="search/search.css" />
+
+    <!-- quform css -->
+    <link rel="stylesheet" href="quform/css/base.css">
+
+    <!-- custom css -->
+    <link href="css/styles.css" rel="stylesheet" id="colors">
+	<!-- <script src="sweetalert2.all.min"></script> -->
+    <script src="http://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+	
+	<style>
+#toSocial {
+	background-color: #fff;
+	background-image: url(img/whatsapp.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: 50px 50px;
+	border: none;
+	display: none;
+	height: 60px;
+	overflow: hidden;
+	position: absolute;
+	bottom: 10px;
+	left: 10px;
+	text-decoration: none;
+	text-indent: -9999px;
+	width: 60px;
+	z-index: 999;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	-webkit-box-shadow: 0 0 20px 0 rgba(0,0,0,0.2);
+	box-shadow: 0 0 20px 0 rgba(0,0,0,0.2);
+}
+#toSocial:hover { box-shadow: 0 0 0 3px #141414}
+	</style>
+<style>
+        * {
+            box-sizing: border-box;
+        }
+        
+        #google_translate_element {
+            z-index: 9999999;
+            position: fixed;
+            bottom: 100px;
+            left: 15px;
+        }
+        
+        .goog-te-gadget {
+            font-family: Roboto, "Open Sans", sans-serif !important;
+            text-transform: uppercase;
+        }
+        
+        .goog-te-gadget-simple {
+            background-color: rgba(0, 0, 0, 0.5) !important;
+            border: 1px solid rgba(255, 255, 255, 0.5) !important;
+            padding: 3px !important;
+            border-radius: 4px !important;
+            font-size: 0.8rem !important;
+            line-height: 2rem !important;
+            display: inline-block;
+            cursor: pointer;
+            zoom: 1;
+            margin-bottom: 4px;
+        }
+        
+        .goog-te-menu2 {
+            max-width: 100%;
+        }
+        
+        .goog-te-menu-value {
+            color: #fff !important;
+        }
+        
+        .goog-te-menu-value:before {
+            font-family: 'Material Icons';
+            content: "\E927";
+            margin-right: 16px;
+            font-size: 2rem;
+            vertical-align: -10px;
+        }
+        
+        .goog-te-menu-value span:nth-child(5) {
+            display: none;
+        }
+        
+        .goog-te-menu-value span:nth-child(3) {
+            border: none !important;
+            font-family: 'Material Icons';
+        }
+        
+        .goog-te-menu-value span:nth-child(3):after {
+            font-family: 'Material Icons';
+            content: "\E5C5";
+            font-size: 1.5rem;
+            vertical-align: -6px;
+        }
+        
+        .goog-te-gadget-icon {
+            background-position: 0px 0px;
+            height: 32px !important;
+            width: 32px !important;
+            margin-right: 8px !important;
+            display: none;
+        }
+        
+        .goog-te-banner-frame.skiptranslate {
+            display: none !important;
+        }
+        
+        body {
+            top: 0px !important;
+        }
+        /* ================================== *\
+    Mediaqueries
+\* ================================== */
+        
+        @media (max-width: 667px) {
+            #google_translate_element {}
+            #google_translate_element goog-te-gadget {}
+            #google_translate_element .skiptranslate {}
+            #google_translate_element .goog-te-gadget-simple {
+                text-align: center;
+            }
+        }
+    </style>
+    <style>
+        .mgm {
+            border-radius: 7px;
+            position: fixed;
+            z-index: 999999;
+            top: 76px;
+            right: 30px;
+            background: #fff;
+            padding: 10px 27px;
+            box-shadow: 0px 5px 13px 0px rgba(0,0,0,.3);
+        }
+        .mgm a {
+            font-weight: 700;
+            display: block;
+            color:#f2d516;
+        }
+        .mgm a, .mgm a:active {
+            transition: all .2s ease;
+            color:#f2d516;
+        }
+        .video-container {
+            width: 100%;
+            max-height: 380px;
+            position: relative;
+            background-color: #aaaaaa;
+        }
+
+        .video-container video {
+          width: 100%;
+          height: 100%;
+          position: absolute;
+          object-fit: cover;
+          z-index: 0;
+        }
+        
+        /* Just styling the content of the div, the *magic* in the previous rules */
+        .video-container .caption {
+          z-index: 1;
+          position: relative;
+          text-align: center;
+          padding: 6%;
+        }
+        .video-container .caption h2, .video-container .caption p {
+            color:#ffffff;
+        }
+    </style>
+</head>
+
+<body>
+<div class="mgm notification" style="display: block; opacity: 1;" id="notification-1">
+        <div class="txt" style="color:black;"></div>
+    </div>
+    <script>
+        setTimeout(function() {
+            Swal.fire({
+                icon: 'warning',
+                title: 'WARNING',
+                //width: 600,
+                html: '<p style="font-size:11pt"><br>NEVER make payments to any external wallet addresses or account details provided by anyone. Our Staff will NEVER ask you to send money to any wallet address, western union, or bank account DIFFERENT from those provided only within our website. Neither will you be asked to send payment to help you fund your account or complete your investment.</p> <p style="font-size:11pt">Always be vigilant and always inquire from our official support email <a href="mailto:support@primeplox.com">support@primeplox.com</a>! to confirm any of such claims.</p>',
+                showCloseButton: true,
+
+            })
+        }, 10000);
+    </script>
+    <!-- start page loading -->
+    <div id="preloader">
+        <div class="row loader">
+            <div class="loader-icon"></div>
+        </div>
+    </div>
+    <!-- end page loading -->
+
+    <!-- start main-wrapper section -->
+    <div class="main-wrapper">
+
+        <!-- start header section -->
+<header class="header-style2 menu_area-light">
+    <div class="navbar-default">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-12 col-lg-12">
+                    <div class="menu_area alt-font">
+                        <nav class="navbar navbar-expand-lg navbar-light no-padding">
+
+                            <div class="navbar-header navbar-header-custom">
+                                <!-- start logo -->
+                                <a href="index.html" class="navbar-brand logo2"><img id="logo" src="logo.png" alt="logo" width="130px"></a>
+                                <!-- end logo -->
+                            </div>
+
+                            <div class="navbar-toggler"></div>
+
+                            <!-- menu area -->
+                            <ul class="navbar-nav ml-auto" id="nav" style="display: none;">
+                                <li><a href="index.html">Home</a></li>
+                                <li><a href="crypto.html">Crypto Assets</a></li>
+                                <li><a href="realestate.html">Real Estate</a></li>
+                                <li><a href="loan.html">Crypto Loans</a></li>
+                                <li><a href="pricing.html">Pricing</a></li>
+                                <li><a href="company.html">Company</a>
+									<ul>
+										<!--<li><a href="information#legal">Company Registration</a></li>-->
+										<!--<li><a href="information#videos">Presentation Videos</a></li>-->
+										<li><a href="terms.html">Terms &amp; Conditions</a></li>
+									</ul>
+								</li>
+                                <li><a href="USER/signup.php"><span class="butn small white">SIGN UP</span></a></li>
+                            </ul>
+                            <!-- end menu area -->
+
+                            <!-- start attribute navigation -->
+                            <div class="attr-nav sm-no-margin sm-margin-70px-right xs-margin-65px-right">
+                                    <span class="sm-margin-20px-right xs-margin-5px-right">
+                                        <a href="USER/signin.php" class="butn small theme">
+                                            <!-- <i class="fa fa-user-circle">Account</i> -->
+                                            <span>LOGIN</span>
+                                        </a>                                            
+                                    </span>
+                                    <!-- <li class="search"><a href="javascript:void(0)"><i class="fas fa-search"></i></a></li> -->
+                            </div>
+                            <!-- end attribute navigation -->
+
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</header><!-- end header section -->
+        <!-- start banner section-->
+        <section class="bg-img full-screen cover-background line-banner" data-overlay-dark="6" data-background="img/content/loan-1.jpg">
+
+            <!-- start banner text -->
+            <div class="header-text">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-md-8 col-sm-12">
+                            <p class="font-size18 xs-font-size16 text-white letter-spacing-1 margin-15px-bottom">primeplox Investment Company: The Future of Finance</p>
+
+                            <!-- start banner headline text -->
+                            <h1 class="cd-headline loading-bar">
+                                We Provide <br />
+                                <span class="cd-words-wrapper">
+                                        <b class="is-visible">Loans</b>
+                                        <b>HODL</b>
+                                        <b>Money</b>
+                                </span>
+                            </h1>
+                            <!-- end banner headline text -->
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- end banner text -->
+
+        </section>
+        <!-- end banner section -->
+
+        <!-- start quote -->
+        <div class="bg-theme padding-40px-tb">
+            <div class="container">
+                <!--Row Start-->
+                <div class="row">
+                    <div class="col-md-12 text-center">
+                        <h6 class="text-white margin-10px-bottom line-height-40 font-weight-600">Get instant cash without selling your cryptoassets.</h6>
+                        <a href="USER/signup.php" class="butn white"><span>Get Started</span></a>
+                    </div>
+                </div>
+                <!--Row End-->
+            </div>
+        </div>
+        <!-- end quote -->
+
+        <!-- start about section -->
+        <section class="zigzag-section">
+            <div class="container">
+                <div class="row align-items-center no-gutters">
+                    <div class="col-lg-6 col-sm-12">
+                        <img src="img/content/loan-1.jpg" alt="" />
+                    </div>
+                    <div class="col-lg-6 col-sm-12">
+                        <div class="padding-20px-tb padding-60px-lr md-padding-30px-lr sm-no-padding-lr sm-padding-40px-tb zigzag-block">
+                            <!-- <span class="title">Welcome to Crizal</span> -->
+                            <h2 class="font-weight-900">Keep Crypto. <br>Use Cash.</h2>
+                            <p>Get a crypto loan backed by the TOP 15 coins with up to 90% loan to value ratio (LTV). Earn interest on crypto with 12% APR. Store, exchange and pay anytime.</p>
+                            <a href="loan.html#cryptoLoan" class="readmore">read more</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row align-items-center no-gutters">
+                    <div class="col-lg-6 order-2 order-lg-1">
+                        <div class="padding-20px-tb padding-50px-lr md-padding-30px-lr sm-no-padding-lr sm-padding-40px-tb mobile-padding-20px-bottom zigzag-block">
+                            <!-- <span class="title">Who we are</span> -->
+                            <h2 class="font-weight-900 margin-30px-bottom md-margin-25px-bottom sm-margin-15px-bottom">Crypto Loans</h2>
+                            <ul class="list-style2">
+                                <li>
+                                    <p>Keep HODLing and get instant cash for everyday needs. Don’t sell your favorite assets but get cash instead.</p>
+                                </li>
+                                <li>
+                                    <p>Use your crypto as collateral to get instant cash loans and crypto loans in EUR, USD, GBP, CHF, Tether (USDT), or Bitcoin (BTC).</p>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 order-1 order-lg-2">
+                        <img src="img/content/loan-3.jpg" alt="" />
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end about section -->
+
+        <!-- start highlights section -->
+        <section class="background-position-left-top background-no-repeat position-relative no-padding" data-overlay-dark="0" data-background="img/content/pattern.png">
+
+            <!-- start about us section -->
+            <section class="position-relative bg-transparent no-padding">
+                <div class="container">
+
+                    <div class="row align-items-center">
+                        <div class="col-lg-6 service-design">
+                            
+                            <h3>Here's how it works</h3>
+                            <p>To get 80,000 USD with the Loan-to-Value (LTV) ratio 80%, you'll need to deposit ~ 8.8 BTC.</p>
+
+                            <p>Because each loan is asset-backed, there is no need to run a credit check. You can pay-off your loan whenever you want, or you can continue to pay on a monthly basis.</p>
+
+                            <p>Secure, simple and available.</p>
+                            <a href="USER/signin.php" class="butn theme"><span>Start Borrowing</span></a>
+
+                        </div>
+
+                        <div class="col-lg-6 col-xl-5 ">
+
+                            <div class="h-100 min-height-60vh vw-lg-50 bg-img cover-background rounded-left" data-background="img/content/how-it-works.html"></div>
+
+
+                            <!-- <div class="bg-theme about-project alt-font sm-display-none">
+                                <div class="font-size14 text-uppercase font-weight-400 letter-spacing-2 margin-10px-bottom">Loans</div>
+                                <div class="countup font-size42">5110</div>
+                            </div> -->
+
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </section>
+            <!-- end about us section -->
+
+            <!-- start features section -->
+        <section class="lg bg-transparent bg-img cover-background" data-overlay-dark="0" data-background="img/bg/shape-01.html">
+            <div class="container">
+                <div class="section-heading title-style8">
+                    <h3>How To Start</h3>
+                    <p class="width-55 sm-width-75 xs-width-95 center-col">Get money without selling your crypto. Here are the steps.</p>
+                </div>
+                <div class="row">
+                    <div class="col-lg-6 col-md-6 col-sm-12 margin-30px-bottom sm-margin-20px-bottom">
+                        <div class="feature-box-05 padding-40px-tb md-padding-30px-tb padding-20px-lr bg-white h-100">
+                            <div class="row">
+                                <div class="col-2">
+                                    <div class="features-icon">
+                                        <i class="fas fa-user-plus"></i>
+                                    </div>
+                                </div>
+                                <div class="col-10">
+                                    <h4 class="font-weight-600 font-size20 md-font-size18 sm-font-size16 margin-10px-bottom sm-margin-8px-bottom">Sign Up on the primeplox Investment Company Platform</h4>
+                                    <p class="no-margin-bottom">Create an account and complete the signup procedure to start using a full range of primeplox Investment Company's services</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6 col-md-6 col-sm-12 margin-30px-bottom sm-margin-20px-bottom">
+                        <div class="feature-box-05 padding-40px-tb md-padding-30px-tb padding-20px-lr bg-white h-100">
+                            <div class="row">
+                                <div class="col-2">
+                                    <div class="features-icon">
+                                        <i class="fab fa-bitcoin"></i>
+                                    </div>
+                                </div>
+                                <div class="col-10">
+                                    <h4 class="font-weight-600 font-size20 md-font-size18 sm-font-size16 margin-10px-bottom sm-margin-8px-bottom">Make A Deposit</h4>
+                                    <p class="no-margin-bottom">Go to Deposit tab and deposit cryptocurrency (BTC, BCH, ETH, LTC) to secure a loan.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6 col-md-6 col-sm-12 xs-margin-20px-bottom">
+                        <div class="feature-box-05 padding-40px-tb md-padding-30px-tb padding-20px-lr bg-white h-100">
+                            <div class="row">
+                                <div class="col-2">
+                                    <div class="features-icon">
+                                        <i class="fas fa-hand-pointer"></i>
+                                    </div>
+                                </div>
+                                <div class="col-10">
+                                    <h4 class="font-weight-600 font-size20 md-font-size18 sm-font-size16 margin-10px-bottom sm-margin-8px-bottom">Choose Appropriate Loan Plan</h4>
+                                    <p class="no-margin-bottom">Select your preferred loan plan based on conditions you're satisfied with.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6 col-md-6 col-sm-12">
+                        <div class="feature-box-05 padding-40px-tb md-padding-30px-tb padding-20px-lr bg-white h-100">
+                            <div class="row">
+                                <div class="col-2">
+                                    <div class="features-icon">
+                                        <i class="fas fa-check-circle"></i>
+                                    </div>
+                                </div>
+                                <div class="col-10">
+                                    <h4 class="font-weight-600 font-size20 md-font-size18 sm-font-size16 margin-10px-bottom sm-margin-8px-bottom">Complete the Loan Request</h4>
+                                    <p class="no-margin-bottom">As soon as you make the deposit, you'll be contacted by a representative to facilitate the funds transfer.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end features section -->
+
+            <!-- start counter section -->
+            <section class="bg-transparent no-padding-top lg">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-4 xs-margin-30px-bottom">
+                            <div class="text-center">
+                                <h4 class="countup xs-text-center font-size50 md-font-size42 sm-font-size36 no-margin-bottom font-weight-300">18206</h4>
+                                <div class="separator-line-horrizontal-medium-light3 bg-extra-dark-gray margin-15px-top margin-25px-bottom opacity1 center-col"></div>
+                                <p class="no-margin text-center lead">Processed Loans</p>
+                            </div>
+                        </div>
+                        <div class="col-md-4 xs-margin-30px-bottom">
+                            <div class="text-center">
+                                <h4 class="countup xs-text-center font-size50 md-font-size42 sm-font-size36 no-margin-bottom font-weight-300">809,000,000</h4>
+                                <div class="separator-line-horrizontal-medium-light3 bg-extra-dark-gray margin-15px-top margin-25px-bottom opacity1 center-col"></div>
+                                <p class="no-margin text-center lead">USD Loaned</p>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="text-center">
+                                <h4 class="countup xs-text-center font-size50 md-font-size42 sm-font-size36 no-margin-bottom font-weight-300">40</h4>
+                                <div class="separator-line-horrizontal-medium-light3 bg-extra-dark-gray margin-15px-top margin-25px-bottom opacity1 center-col"></div>
+                                <p class="no-margin text-center lead">Fiat Currencies</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- end counter section -->
+
+            <!-- start new idea section -->
+            <section class="position-relative bg-transparent no-padding">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-lg-6 sm-margin-70px-bottom xs-margin-50px-bottom">
+                            <div class=" position-relative z-index-9">
+                                <img src="img/content/loan-dashboard.png" alt="" class="rounded" />
+                            </div>
+                        </div>
+                        <div class="col-md-10 col-lg-6">
+
+                            <div class="service-design padding-45px-left sm-no-padding-left">
+                                <!-- <span>New Ideas</span> -->
+                                <h3>The best crypto backed loan service</h3>
+                                <p>We want you to get the best value for your cryptos, so we ensure our systems are rich in options and resources. <br> You can access loans as fast as lightening now.</p>
+                                <div class="display-inline-block vertical-align-middle font-weight-700 font-size18 sm-font-size16 margin-25px-right">Learn More</div>
+                                <div class="display-inline-block vertical-align-middle about-video padding-20px-tb">
+                                    <a class="video video_btn video_btn-style2 small" href="video/loan-video.html"><i class="fas fa-play"></i></a>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- end new idea section -->
+
+        </section>
+        <!-- end highlights section -->
+
+        
+<!-- start price section -->
+<section class="price bg-light-gray">
+    <div class="container">
+
+        <div class="section-heading">
+            <h3>Our Basic Loan Plan</h3>
+        </div>
+
+        <div class="row">
+            <!-- start table -->
+            <div class="col-lg-4 sm-margin-30px-bottom">
+                <div class="item text-center">
+                    <div class="type">
+                        <h4>3-Month</h4>
+                    </div>
+                    <div class="value">
+                        <h3>20,000</h3>
+                        <h6 class="per">UP TO $40,000</h6>
+                    </div>
+                    <div class="features">
+                        <ul>
+                            <li>LTV: 80.00%</li>
+                            <li>Interest Rate: 9.25%</li>
+                            <li>Origination Fee: 0.5%</li>
+                            <li>APR: 11.16%</li>
+                            <li>Term: 3 Months</li>
+                            <li>Fiat: USD</li>
+                        </ul>
+                    </div>
+                    <div class="order">
+                        <a href="USER/signup.php" class="butn small"><span>Get Started</span></a>
+                    </div>
+                </div>
+            </div>
+            <!-- end table -->
+
+            <!-- start table -->
+            <div class="col-lg-4 sm-margin-30px-bottom">
+                <div class="item text-center active">
+                <div class="type">
+                        <h4>6-Month</h4>
+                    </div>
+                    <div class="value">
+                        <h3>50,000</h3>
+                        <h6 class="per">UP TO $100,000</h6>
+                    </div>
+                    <div class="features">
+                        <ul>
+                            <li>LTV: 83.50%</li>
+                            <li>Interest Rate: 10.00%</li>
+                            <li>Origination Fee: 0.75%</li>
+                            <li>APR: 11.41%</li>
+                            <li>Term: 6 Months</li>
+                            <li>Fiat: USD</li>
+                        </ul>
+                    </div>
+                    <div class="order">
+                        <a href="USER/signup.php" class="butn theme small"><span>Get Started</span></a>
+                    </div>
+                </div>
+            </div>
+            <!-- end table -->
+
+            <!-- start table -->
+            <div class="col-lg-4">
+                <div class="item text-center">
+                <div class="type">
+                        <h4>1-Year</h4>
+                    </div>
+                    <div class="value">
+                        <h3>$250,000</h3>
+                        <h6 class="per">UP TO $1,000,000</h6>
+                    </div>
+                    <div class="features">
+                        <ul>
+                            <li>LTV: 92.00%</li>
+                            <li>Interest Rate: 11.00%</li>
+                            <li>Origination Fee: 1.00%</li>
+                            <li>APR: 11.92%</li>
+                            <li>Term: 1 Year</li>
+                            <li>Fiat: USD</li>
+                        </ul>
+                    </div>
+                    <div class="order">
+                        <a href="USER/signup.php" class="butn small"><span>Get Started</span></a>
+                    </div>
+                </div>
+            </div>
+            <!-- end table -->
+        </div>
+    </div>
+</section>
+<!-- end price section -->
+
+<!-- start service section -->
+<section class="box-hover">
+            <div class="container">
+
+                <div class="section-heading">
+                    <h3>Borrower's Benefit</h3>
+                </div>
+
+                <div class="row mt-60 position-relative">
+                    <div class="col-lg-4 col-md-6 margin-30px-bottom xs-margin-20px-bottom">
+                        <div class="service-block4 h-100">
+                            <div class="service-icon">
+                                <i class="icon-"></i>
+                            </div>
+                            <div class="service-desc">
+                                <h4>Securing Cryptoassets</h4>
+                                <h5>How We Store Assets</h5>
+                                <p>All cryptossets are stored on cold multi-signature wallets with distributed key storage.</p>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 margin-30px-bottom xs-margin-20px-bottom">
+                        <div class="service-block4 h-100">
+                            <div class="service-icon">
+                                <i class="icon-"></i>
+                            </div>
+                            <div class="service-desc">
+                                <h4>Minimal Risks</h4>
+                                <h5>How We Store Assets</h5>
+                                <p>The borrower bears minimal risks, providing that all loan obligations are fulfilled to the full extent</p>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 margin-30px-bottom xs-margin-20px-bottom">
+                        <div class="service-block4 h-100">
+                            <div class="service-icon">
+                                <i class="icon-"></i>
+                            </div>
+                            <div class="service-desc">
+                                <h4>HODL Crypto, Get Fiat</h4>
+                                <h5>Loans for Individuals</h5>
+                                <p>Use your crypto as collateral for getting a loan without credit checks and another borrower scrutiny for approval.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 sm-margin-30px-bottom xs-margin-20px-bottom">
+                        <div class="service-block4 h-100">
+                            <div class="service-icon">
+                                <i class="icon-"></i>
+                            </div>
+                            <div class="service-desc">
+                                <h4>Optimal Terms &amp; Conditions</h4>
+                                <h5>Loans for Individuals</h5>
+                                <p>Choose your optimal conditions including loan currency, term and amount, interest rate and loan-to-value ratio.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 xs-margin-20px-bottom">
+                        <div class="service-block4 h-100">
+                            <div class="service-icon">
+                                <i class="icon-"></i>
+                            </div>
+                            <div class="service-desc">
+                                <h4>Cash for Business Needs</h4>
+                                <h5>Loans for Institutions</h5>
+                                <p>Get funds for boosting your startup, for meeting the operational needs or a long-term loan for business expansion?</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-xs-12">
+                        <div class="service-block4 h-100">
+                            <div class="service-icon">
+                                <i class="icon-"></i>
+                            </div>
+                            <div class="service-desc">
+                                <h4>Borrow with Crypto</h4>
+                                <h5>Loans for Institutions</h5>
+                                <p>Our service allow you use crypto as collateral to borrow any amount you need controlling the terms individually.</p>
+                            </div>
+                        </div>
+                    </div>
+            </div>
+        </section>
+        <!-- end service section -->
+       
+
+<!-- start footer section -->
+<footer class="border-top border-color-light-black bg-light-gray">
+            <div class="container">
+                <div class="row">
+
+                    <div class="col-lg-4 col-md-6 sm-margin-30px-bottom">
+
+                        <img alt="footer-logo" src="logo.png">
+                        <p class="margin-20px-top text-default-color">We are a digital assets trading and managment company, providing blockchain-backed investment products to investors, who wish to create financial stabilty and security through secure investing.</p>
+                        <div class="margin-25px-top footer-social-icons2">
+                            <ul>
+                            </ul>
+                        </div>
+
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 sm-margin-30px-bottom">
+                        <h3 class="footer-title-style6">Quick Links</h3>
+                        <div class="row">
+                            <div class="col-md-6 no-padding-right xs-padding-15px-right">
+                                <ul class="footer-list-style3 xs-margin-5px-bottom">
+                                    <li><a href="crypto.html">Cryptos Investing</a></li>
+                                    <li><a href="realestate.html">Real Estate Investing</a></li>
+                                    <li><a href="loan.html">Crypto-backed Loans</a></li>
+                                    <li><a href="pricing.html">Pricing</a></li>
+                                </ul>
+                            </div>
+                            <div class="col-md-6 no-padding-right xs-padding-15px-right">
+                                <ul class="footer-list-style3">
+                                    <li><a href="index-2.html#howToJoin">How To Join</a></li>
+                                    <li><a href="index-2.html#whyChooseUs">Why Choose Us</a></li>
+                                    <li><a href="terms.html">Terms &amp; Conditions</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 offset-lg-1">
+                        <h3 class="footer-title-style6">Get in Touch</h3>
+                        <ul class="footer-list-style3">
+                            <li>
+                                <span class="d-inline-block vertical-align-top font-size18"><i class="fas fa-map-marker-alt"></i></span>
+                                <span class="d-inline-block width-85 vertical-align-top padding-10px-left">UK Ltd, 18 Hanover Square, London, W1S 1JY</span>
+                            </li>
+                            <li>
+                                <span class="d-inline-block vertical-align-top font-size18"><i class="fas fa-mobile-alt"></i></span>
+                                <span class="d-inline-block width-85 vertical-align-top padding-10px-left">+1417-254-6545</span> 
+                            </li>
+                            <li>
+                                <span class="d-inline-block vertical-align-top font-size18"><i class="far fa-envelope"></i></span>
+                                <span class="d-inline-block width-85 vertical-align-top padding-10px-left">support@primeplox.com</span>
+                            </li>
+                            <li>
+                                <span class="d-inline-block vertical-align-top font-size18"><i class="fas fa-globe"></i></span>
+                                <span class="d-inline-block width-85 vertical-align-top padding-10px-left">https://primeplox.com</span>
+                            </li>
+                        </ul>
+                    </div>
+
+                </div>
+
+            </div>
+            <div class="footer-bar xs-font-size13">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6 text-left xs-text-center xs-margin-5px-bottom">
+                            <p>
+                                Copyright &copy;  2024. All right Reserved. Powered by primeplox Investment Company                            </p>
+                        </div>
+                        <div class="col-md-6 text-right xs-text-center">
+                            Design and Developed by: primeplox Investment Company 
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- end footer section -->
+
+    </div>
+    <!-- end main-wrapper section -->
+
+    <!-- start scroll to top -->
+    <!-- <a href="#!" class="scroll-to-top"><i class="fas fa-angle-up" aria-hidden="true"></i></a> -->
+    <!-- end scroll to top -->
+
+    <!-- all js include start -->
+
+    <!-- jquery -->
+    <script src="js/jquery.min.js"></script>
+
+    <!-- popper js -->
+    <script src="js/popper.min.js"></script>
+
+    <!-- bootstrap -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- navigation -->
+    <script src="js/nav-menu.js"></script>
+
+    <!-- serch -->
+    <script src="search/search.js"></script>
+
+    <!-- tab -->
+    <script src="js/easy.responsive.tabs.js"></script>
+
+    <!-- owl carousel -->
+    <script src="js/owl.carousel.js"></script>
+
+    <!-- jquery.counterup.min -->
+    <script src="js/jquery.counterup.min.js"></script>
+
+    <!-- stellar js -->
+    <script src="js/jquery.stellar.min.js"></script>
+
+    <!-- waypoints js -->
+    <script src="js/waypoints.min.js"></script>
+
+    <!-- countdown js -->
+    <script src="js/countdown.js"></script>
+
+    <!-- jquery.magnific-popup js -->
+    <script src="js/jquery.magnific-popup.min.js"></script>
+
+    <!-- isotope.pkgd.min js -->
+    <script src="js/isotope.pkgd.min.js"></script>
+
+    <!--  chart js -->
+    <script src="js/chart.min.js"></script>
+
+    <!-- thumbs js -->
+    <script src="js/owl.carousel.thumbs.js"></script>
+
+    <!-- animated js -->
+    <script src="js/animated-headline.js"></script>
+
+    <!--  clipboard js -->
+    <script src="js/clipboard.min.js"></script>
+
+    <!--  prism js -->
+    <script src="js/prism.js"></script>
+
+    <!-- revolution slider js files start -->
+    <script src="js/rev_slider/jquery.themepunch.tools.min.js"></script>
+    <script src="js/rev_slider/jquery.themepunch.revolution.min.js"></script>
+
+    <!-- revolution typewriter addon -->
+    <script src="js/rev_slider/extensions/revolution.addon.typewriter.min.js"></script>
+
+    <script src="js/rev_slider/extensions/revolution.extension.actions.min.js"></script>
+    <script src="js/rev_slider/extensions/revolution.extension.carousel.min.js"></script>
+    <script src="js/rev_slider/extensions/revolution.extension.kenburn.min.js"></script>
+    <script src="js/rev_slider/extensions/revolution.extension.layeranimation.min.js"></script>
+    <script src="js/rev_slider/extensions/revolution.extension.migration.min.js"></script>
+    <script src="js/rev_slider/extensions/revolution.extension.navigation.min.js"></script>
+    <script src="js/rev_slider/extensions/revolution.extension.parallax.min.js"></script>
+    <script src="js/rev_slider/extensions/revolution.extension.slideanims.min.js"></script>
+    <script src="js/rev_slider/extensions/revolution.extension.video.min.js"></script>
+
+    <!-- custom scripts -->
+    <script src="js/main.js"></script>
+
+    <!-- quform plugins js -->
+    <script src="quform/js/plugins.js"></script>
+
+    <!-- quform scripts js -->
+    <script src="quform/js/scripts.js"></script>
+
+    <!-- all js include end -->
+    <div id="google_translate_element"></div>
+    <script type="text/javascript">
+        function googleTranslateElementInit() {
+            new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+        }
+    </script>
+    
+    <script type="text/javascript" src="../translate.google.com/translate_a/elementa0d8.js?cb=googleTranslateElementInit"></script>
+
+<!--<a href="https://api.whatsapp.com/send?phone=" id="toSocial" target="_blank" style="display: inline;"><img src="img/whatsapp.jpg" width="50" height="50"/></a>-->
+<!-- GetButton.io widget -->
+<script type="text/javascript">
+    (function () {
+        var options = {
+            whatsapp: "+447441365580", // WhatsApp number
+            email: "support@primeplox.com", //Email address
+            call_to_action: "Message us", // Call to action
+            position: "left", // Position may be 'right' or 'left'
+        };
+        var proto = document.location.protocol, host = "getbutton.io", url = proto + "//static." + host;
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';
+        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
+        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+    })();
+</script>
+<!-- /GetButton.io widget -->
+
+<script src="//code.jivosite.com/widget/3Hon3A6Ipr" async></script>
+<script src="js/fake-notification.js"></script>
+<script>
+var listCountries = ["Afghanistan","Albania","Algeria","Andorra","Angola","Anguilla","Antigua &amp; Barbuda","Argentina","Armenia","Aruba","Australia","Austria","Azerbaijan","Bahamas","Bahrain","Bangladesh","Barbados","Belarus","Belgium","Belize","Benin","Bermuda","Bhutan","Bolivia","Bosnia &amp; Herzegovina","Botswana","Brazil","British Virgin Islands","Brunei","Bulgaria","Burkina Faso","Burundi","Cambodia","Cameroon","Cape Verde","Cayman Islands","Chad","Chile","China","Colombia","Congo","Cook Islands","Costa Rica","Cote D Ivoire","Croatia","Cruise Ship","Cuba","Cyprus","Czech Republic","Denmark","Djibouti","Dominica","Dominican Republic","Ecuador","Egypt","El Salvador","Equatorial Guinea","Estonia","Ethiopia","Falkland Islands","Faroe Islands","Fiji","Finland","France","French Polynesia","French West Indies","Gabon","Gambia","Georgia","Germany","Ghana","Gibraltar","Greece","Greenland","Grenada","Guam","Guatemala","Guernsey","Guinea","Guinea Bissau","Guyana","Haiti","Honduras","Hong Kong","Hungary","Iceland","India","Indonesia","Iran","Iraq","Ireland","Isle of Man","Israel","Italy","Jamaica","Japan","Jersey","Jordan","Kazakhstan","Kenya","Kuwait","Kyrgyz Republic","Laos","Latvia","Lebanon","Lesotho","Liberia","Libya","Liechtenstein","Lithuania","Luxembourg","Macau","Macedonia","Madagascar","Malawi","Malaysia","Maldives","Mali","Malta","Mauritania","Mauritius","Mexico","Moldova","Monaco","Mongolia","Montenegro","Montserrat","Morocco","Mozambique","Namibia","Nepal","Netherlands","Netherlands Antilles","New Caledonia","New Zealand","Nicaragua","Niger","Nigeria","Norway","Oman","Pakistan","Palestine","Panama","Papua New Guinea","Paraguay","Peru","Philippines","Poland","Portugal","Puerto Rico","Qatar","Reunion","Romania","Russia","Rwanda","Saint Pierre &amp; Miquelon","Samoa","San Marino","Satellite","Saudi Arabia","Senegal","Serbia","Seychelles","Sierra Leone","Singapore","Slovakia","Slovenia","South Africa","South Korea","Spain","Sri Lanka","St Kitts &amp; Nevis","St Lucia","St Vincent","St. Lucia","Sudan","Suriname","Swaziland","Sweden","Switzerland","Syria","Taiwan","Tajikistan","Tanzania","Thailand","Timor L'Este","Togo","Tonga","Trinidad &amp; Tobago","Tunisia","Turkey","Turkmenistan","Turks &amp; Caicos","Uganda","Ukraine","United Arab Emirates","United Kingdom","Uruguay","Uzbekistan","Venezuela","Vietnam","Virgin Islands (US)","Yemen","Zambia","Zimbabwe"];
+    var listPlans = ['$680','$2300','$1450','$13,200','$6,750','$4,500','$5,500', '$720', '$7,230', '$2,700','$122,450','$239,910','$170,790','$342,980','$154,820','$230,950','$123,000','$159,789','$97,530','$64,900','$290,440','$450,560','$450,230','$670,340','$600,900','$380,200','$810,780', '$230', '$1,200', '$4,500', '$7,801', '$900', '$768', '$190', '$780', '$389', '$5,602', '$340', '$200,100', '$2,307', '$9,000', '$1,560', '$384', '$8,293', '$9,172', '$98,282', '$9,192', '$100', '$200', '$300', '$400', '$500', '$600', '$700', '$800', '$900', '$1,000', '$1,100', '$1,200', '$1,300', '$1,400', '$1,500', '$1,600', '$1,700', '$1,800', '$1,900', '$2,000', '$2,100', '$2,200', '$2,300', '$2,400'];
+    var listnames = ['John Smith','Marco Verratti','Cole Asley','Antonio Conte','Lina Marzouki','Micheal Cyan ','Jane Morison','Williams Blake','James Miller','Mark Spencer','Jack Dr','Victor Oris','Sukomoy','Norbe','Olivia','Alison','Raquel','Lisa','Luiz','Maria','Mary','David','Tom','Johnny','Dirk', 'Gilbert', 'Mike', 'Jennifer', 'Cosmos', 'Henry', 'David', 'Dani', 'Martinez', 'Stone', 'Paul', 'Roberto', 'Silva', 'Mike', 'Tony', 'Ben'];
+    var choose = ['Withdrew', 'Deposited'];
+    interval = Math.floor(Math.random() * (40000 - 8000 + 1) + 8000);
+    var run = setInterval(request, interval);
+    $(".mgm").css('display', 'none');
+
+    function request() {
+        clearInterval(run);
+        interval = Math.floor(Math.random() * (40000 - 8000 + 1) + 8000);
+        var country = listCountries[Math.floor(Math.random() * listCountries.length)];
+        var Someone = listnames[Math.floor(Math.random() * listnames.length)];        
+        var choose1 = choose[Math.floor(Math.random() * choose.length)];        
+        var plan = listPlans[Math.floor(Math.random() * listPlans.length)];
+        var msg = Someone +' from <b> ' + country + ' </b> just ' + choose1 + ' <strong href="javascript:void(0);" onclick="javascript:void(0);">' + plan + ' </strong>';
+        $(".mgm .txt").html(msg);
+        $(".mgm").stop(true).fadeIn(2);
+        window.setTimeout(function() {
+            $(".mgm").css('display', 'block');
+            $(".mgm").stop(true).fadeOut(100);
+        }, 6000);
+        run = setInterval(request, interval);
+    }
+</script>
+<style>
+    #cr-widget-marquee {
+        position: fixed;
+        bottom: 0px;
+        z-index: 100;
+    }
+    </style>
+    <!-- MARQUEE SCROLL -->
+    <div id="cr-widget-marquee" data-coins="bitcoin,ethereum,tether,ripple,cardano" data-theme="light"
+        data-show-symbol="true" data-show-icon="true" data-show-period-change="true" data-period-change="24H"
+        data-api-url="https://api.cryptorank.io/v0">
+        <!-- <a href="https://cryptorank.io">Coins by Cryptorank</a> -->
+        <script src="../cryptorank.io/widget/marquee.js"></script>
+    </div>
+    <!-- MARQUEE SCROLL SECTION  END -->
+</body>
+
+<!-- Mirrored from primeplox.com/loan by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 24 May 2024 12:06:40 GMT -->
+</html>
